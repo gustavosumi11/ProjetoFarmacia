@@ -1,0 +1,24 @@
+th {
+  text-align: start;
+  border-bottom: inset;
+  padding-bottom: 5px;
+}
+table {
+  width: 98%;
+  padding: 20px 0;
+  border-radius: 5px;
+}
+.abc {
+
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+.itens {
+  display: block;
+
+ 
+  width: 100%; /* Não necessário */
+  background: #dfdfdf; /* Não necessário */
+  text-align: center; /* Não necessário */
+}
